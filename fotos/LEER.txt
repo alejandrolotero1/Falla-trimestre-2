@@ -1,0 +1,51 @@
+Aun falta.
+
+
+<body class="container-all">
+        
+    
+
+    <h1></style> Toby Fox</h1>
+    <h2>Biografia</h2>
+    <h3>Compositor y desarrollador</h3>
+
+
+   
+    <img src="TobyFox.png">
+    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0"
+
+    
+
+    <section>
+        <h4>Biografia</h4>
+        Robert "Toby" Fox nació en Mánchester, Nuevo Hampshire, el 11 de octubre de 1991. Es el tercer hijo de Robert Fox y Barbara Fox, el primero, asesor financiero y la segunda, profesora Toby Fox destacó por participar en varias actividades como Cross Country, trompetista en la banda de su preparatoria y actor en un grupo de teatro.
+
+        Fox originalmente comenzó como un miembro del foro en el sitio de fans EarthBound y Starmen.Net. Luego, con el nickname "Radiation" fue el administrador del foro PK Hack hasta 2011. La primera vez que entró en el ojo público, era por su infame "EarthBound Halloween Hack" (Hack de Halloween de EarthBound), también conocido como "¡Pulsa el botón B,wey!" que fue una presentación para Starmen.Net 2008 de Halloween Funfest.
+        Fox salió adelante con su talento para producir música en el webcomic, Homestuck, y por ultimo, pasaría a desarrollar Undertale.
+        El trabajo más popular de Toby Fox es el videojuego de rol de 2015 Undertale. El videojuego vendió más de un millón de copias, convirtiéndose en un "éxito sin precedentes" y un "fenómeno de la cultura pop"​ Toby Fox trabajó en todo el videojuego de forma independiente, además de los recursos artísticos -con los que pidió ayuda a Temmie (Tuyoki) Chang- para evitar depender de otros
+
+    </section>
+
+    <section>
+        <h4>Juegos - Undertale</h4>
+        Después de su lanzamiento, Undertale obtuvo una amplia base de fanes y un gran grado de controversia sobre los elogios recibidos por el videojuego.20​ Toby Fox comentó que no le importaba que la gente dijera que no les gustaba el videojuego, diciendo que "no era para todos". A pesar de los premios de Undertale y de su amplia aceptación, Toby Fox escribió que su opinión personal era que el videojuego seguía siendo de "nicho" y merecía una puntuación de reseña de "8/10".21​
+        En 2016, Toby Fox lanzó una serie de temas musicales sin usar de Undertale.22​ También fue colaborador de la revista A Profound Waste of Time.​ Toby Fox fue elegido para formar parte de la lista de los juegos de Forbes 30 Under 30 de 2018 por su papel en la creación de Undertale.
+        El éxito de Undertale, especialmente en Japón, le dio a Toby Fox la oportunidad de visitar al creador de Super Smash Bros., Masahiro Sakurai, en su casa, donde discutieron sobre la serie de videojuegos y jugaron Super Smash Bros. Ultimate entre ellos. Sans, un personaje de Undertale, fue incluido más tarde en Super Smash Bros. Ultimate como un disfraz de Mii disponible a través de contenido descargable, junto con su canción «MEGALOVANIA», para la cual Toby Fox proporcionó un nuevo arreglo.
+    </section>
+
+    <section>
+        <h4>Juegos - Deltarune</h4>
+        El 30 de octubre de 2018, Toby Fox tuiteó una solicitud para que los fanes de Undertale revisaran la cuenta oficial de Twitter del videojuego después de 24 horas.
+        Al día siguiente, Toby Fox publicó el primer capítulo de la continuación de Undertale, llamado Deltarune de forma gratuita bajo la apariencia de una "encuesta". El 1 de noviembre,
+        Toby Fox compartió más detalles sobre el videojuego, incluyendo que se esperaba que el resto de los capítulos salieran a la luz simultáneamente, pero el trabajo aún no había comenzado y no había un plazo estimado
+        para su finalización.​ Toby Fox también declaró que había estado trabajando en el proyecto desde 2012 y que la idea de Deltarune se desarrolló a partir de Undertale durante la producción.
+    </section>
+
+
+    <footer>
+        <p>Página realizada por Alejandro Lotero. &copy; 2021</p>
+    </footer>
+
+</body>
+
+</html>

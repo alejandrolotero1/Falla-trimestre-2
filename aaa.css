@@ -1,0 +1,148 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: times New Roman;
+    
+}
+
+
+    
+
+
+
+.Banner-delta {
+    background: url(fotos/BannerDELTARUNE.jpg);
+    height: 450px;
+    background-size: cover;
+    background-repeat:no-repeat;
+    
+
+}
+
+
+nav{
+    text-align: center;
+    background-color: black;
+}
+
+.text{
+    text-align: center;
+    background-color: black;
+}
+
+.text p{
+    font-size: 60px;
+    font-weight: bold;
+    margin: 1em 0;
+
+}
+
+.text a{
+    color:white;
+    text-decoration: none;
+    background:rgb(167, 128, 211);
+    padding: 4px 20px;
+    border-radius: 30px;
+
+}
+
+
+
+
+.info-delta{
+    text-align: center;
+}
+
+.uwu{
+    border-style: solid; border-color: rgb(129, 31, 31); margin: 5px;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.uwu{
+    background: rgb(192, 152, 152);
+    
+}
+
+.delta{
+    background: url(fotos/fondo-delta.png);
+    background-size: 500px;
+}
+
+/* INDEX-HTML*/
+
+
+.title{
+    font-size:40px ;
+
+}
+
+
+
+.Bio{
+    background: darkgray;
+    margin:auto 0;
+}
+
+
+.Bio{
+    border-style: solid; border-color: rgb(255, 255, 255); margin: 5px;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
+
+.Bio img{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    height: 250px;
+
+}
+
+.perro-fondo{
+    background: url(fotos/fondo-perrito.jpg);
+    background-size: 150px;
+
+
+    
+   
+}
+
+/*UNDERTALE*/
+
+.Banner-under {
+    background: url(fotos/BannerUNDERTALE.png);
+    height: 450px;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.unu{
+    border-style: solid; border-color: rgb(71, 49, 100); margin: 5px;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.unu{
+    background: rgb(190, 188, 214);
+    
+}
+
+.fondo-under{
+    background: url(fotos/undertale-fondo.jpg);
+    background-size: 450px;
+
+}
+
