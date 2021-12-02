@@ -6,55 +6,38 @@
     font-family: times New Roman;
     
 }
-
-
-    
-
-
-
 .Banner-delta {
     background: url(fotos/BannerDELTARUNE.jpg);
     height: 450px;
     background-size: cover;
     background-repeat:no-repeat;
-    
-
+    height: 70vh;
 }
 
 
-nav{
-    text-align: center;
-    background-color: black;
-}
 
 .text{
     text-align: center;
-    background-color: black;
+    background-color: rgb(80, 68, 88);
+    height: 25px;
 }
-
 .text p{
     font-size: 60px;
     font-weight: bold;
     margin: 1em 0;
 
 }
-
 .text a{
     color:white;
     text-decoration: none;
     background:rgb(167, 128, 211);
-    padding: 4px 20px;
-    border-radius: 30px;
+    padding: 10px 60px;
+    border-radius: 60px;
 
 }
-
-
-
-
 .info-delta{
     text-align: center;
 }
-
 .uwu{
     border-style: solid; border-color: rgb(129, 31, 31); margin: 5px;
     color: black;
@@ -62,34 +45,25 @@ nav{
     margin-right: 100px;
     margin-top: 40px;
     margin-bottom: 40px;
-}
-
-.uwu{
-    background: rgb(192, 152, 152);
+    height: 100%;
     
 }
-
+.uwu{
+    background: rgb(192, 152, 152);
+}
 .delta{
     background: url(fotos/fondo-delta.png);
     background-size: 500px;
 }
-
 /* INDEX-HTML*/
-
-
 .title{
     font-size:40px ;
 
 }
-
-
-
 .Bio{
     background: darkgray;
     margin:auto 0;
 }
-
-
 .Bio{
     border-style: solid; border-color: rgb(255, 255, 255); margin: 5px;
     color: black;
@@ -97,9 +71,9 @@ nav{
     margin-right: 100px;
     margin-top: 40px;
     margin-bottom: 40px;
+    height: 100%;
     
 }
-
 .Bio img{
     float: left;
     margin-right: 20px;
@@ -107,42 +81,136 @@ nav{
     height: 250px;
 
 }
-
 .perro-fondo{
     background: url(fotos/fondo-perrito.jpg);
-    background-size: 150px;
-
-
-    
-   
+    background-size: 250px;
 }
-
 /*UNDERTALE*/
-
 .Banner-under {
     background: url(fotos/BannerUNDERTALE.png);
     height: 450px;
     background-size: cover;
     background-repeat:no-repeat;
+    height: 120vh;
 }
-
 .unu{
-    border-style: solid; border-color: rgb(71, 49, 100); margin: 5px;
+    border-style: solid;
+    border-color: rgb(71, 49, 100);
+    margin: 5px;
     color: black;
     margin-left: 100px;
     margin-right: 100px;
     margin-top: 40px;
     margin-bottom: 40px;
+    height: 100%;
 }
-
 .unu{
     background: rgb(190, 188, 214);
-    
 }
-
 .fondo-under{
     background: url(fotos/undertale-fondo.jpg);
     background-size: 450px;
+}
+.soundtracks{
+    border-style: solid; border-color: #473164; margin: 5px;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background: rgb(190, 188, 214)
+    
+}
+.disco{
+    text-align: center;
+    float: left;
+    width:300px;
+    margin: 70px;
+    margin-top: 30px;
+    margin-left: 40px;
+    border: 2px #473164 solid;
+    
+    
+    
+}
+.discografia{
+    margin: 5px;
+    list-style: none;
+    text-align: center;
+    
+}
+.disco a{
+    text-decoration:none;
+    color: #000;
+}
+.disco img{
+    height: 220px;
+    width: 240px;
+}
+h2{
+    margin: 10px;
+}
+.clear{
+    clear: both;
+}
+
+/*formulario registro*/
+
+.formulario{
+    text-align: center;
+    border-style: solid; border-color: rgb(71, 49, 100); margin: 5px;
+    margin-left: 350px;
+    margin-right: 350px;
+    background-color: rgba(141, 94, 185, 0.411);
+    font-size: 20px;
+    width: 550px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+    
+}
+
+
+
+
+.fondo-formulario{
+    background: url(fotos/fondo-registro.jpg);
+    background-size: 100%;
+
+
 
 }
+
+
+.final{
+    border-style: solid; border-color: rgb(161, 155, 167); margin: 5px;
+    margin-right: 200px;
+    margin-left: 200px;
+    background-color:rgba(146, 145, 153, 0.972);
+    
+
+
+
+}
+
+input#boton{
+    padding: 5px 30px;
+    background-color:rgb(190, 188, 214);
+    box-shadow: 0px 1px 0px rgb(71, 49, 100);
+    
+    
+
+    
+}
+
+.botones{
+    padding: 4px 6px;
+    border: 1px solid rgb(33, 16, 65);
+    
+
+    
+}
+
+
+
 
